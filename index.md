@@ -6,3 +6,6 @@
 
 
 I tried to test the headers h1, h2 and h3.
+
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
