@@ -14,3 +14,8 @@ I tried to test the headers h1, h2 and h3.
 ``` python
 x = "Hello, world!";
 ```
+
+
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [x] Introduce myself to the world
